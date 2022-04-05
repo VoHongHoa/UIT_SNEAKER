@@ -10,13 +10,15 @@ class SectionProducts extends Component {
             <div className="col-sm-6 text-center">
               <div className="featured">
                 <a
-                  href="#"
+                  href={() => false}
                   className="featured-img"
                   style={{ backgroundImage: `url(${men})` }}
-                ></a>
+                >
+                  {" "}
+                </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Shop Men's Collection</a>
+                    <a href="/men">Shop Men's Collection</a>
                   </h2>
                 </div>
               </div>
@@ -24,13 +26,15 @@ class SectionProducts extends Component {
             <div className="col-sm-6 text-center">
               <div className="featured">
                 <a
-                  href="#"
+                  href={() => false}
                   className="featured-img"
                   style={{ backgroundImage: `url(${women})` }}
-                ></a>
+                >
+                  {" "}
+                </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Shop Women's Collection</a>
+                    <a href="/women">Shop Women's Collection</a>
                   </h2>
                 </div>
               </div>

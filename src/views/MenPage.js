@@ -39,26 +39,22 @@ class MenPage extends Component {
                   <div className="col-sm-12 text-left menu-1">
                     <ul>
                       <li>
-                        <a href="/" >
-                          Trang chủ
-                        </a>
+                        <a href="/">Trang chủ</a>
                       </li>
                       <li className="has-dropdown active">
-                        <a href="/men">
-                          Nam
-                        </a>
+                        <a href="/men">Nam</a>
                         <ul className="dropdown">
                           <li>
-                            <a href="/cart">Shopping Cart</a>
+                            <a href={() => false}>Shopping Cart</a>
                           </li>
                           <li>
-                            <a href="/checkout">Checkout</a>
+                            <a href={() => false}>Checkout</a>
                           </li>
                           <li>
-                            <a href="order-complete.html">Order Complete</a>
+                            <a href={() => false}>Order Complete</a>
                           </li>
                           <li>
-                            <a href="add-to-wishlist.html">Wishlist</a>
+                            <a href={() => false}>Wishlist</a>
                           </li>
                         </ul>
                       </li>
@@ -66,13 +62,13 @@ class MenPage extends Component {
                         <a href="/women">Giày nữ</a>
                       </li>
                       <li>
-                        <a href="about.html">Blog</a>
+                        <a href={() => false}>Blog</a>
                       </li>
                       <li>
-                        <a href="contact.html">Liên hệ</a>
+                        <a href={() => false}>Liên hệ</a>
                       </li>
                       <li className="cart">
-                        <a href="cart.html">
+                        <a href={() => false}>
                           <i className="icon-shopping-cart"></i> Giỏ hàng [0]
                         </a>
                       </li>
@@ -114,9 +110,6 @@ class MenPage extends Component {
             </div>
           </nav>
 
-
-
-
           <div class="breadcrumbs">
             <div class="container">
               <div class="row">
@@ -135,7 +128,7 @@ class MenPage extends Component {
           <OtherProducts />
           <Footer />
           <div className="gototop js-top">
-            <a href="#" className="js-gotop">
+            <a href={() => false} className="js-gotop">
               <i className="ion-ios-arrow-up"></i>
             </a>
           </div>

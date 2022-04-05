@@ -1,5 +1,5 @@
 import HomePage from "./views/HomePage";
-import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import MenPage from "./views/MenPage";
 import WomenPage from "./views/WomenPage";
 import ProductDetail from "./views/ProductDetail";

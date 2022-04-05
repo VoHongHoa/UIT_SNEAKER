@@ -25,7 +25,7 @@ class OtherProducts extends Component {
           <div className="row row-pb-md">
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href={() => false} className="prod-img">
                   <img
                     src={item1}
                     className="img-fluid"
@@ -34,7 +34,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -42,7 +42,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item2}
                     className="img-fluid"
@@ -51,7 +51,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Minam Meaghan</a>
+                    <a href="/Product-detail">Women's Minam Meaghan</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -59,7 +59,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item3}
                     className="img-fluid"
@@ -68,7 +68,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Men's Taja Commissioner</a>
+                    <a href="/Product-detail">Men's Taja Commissioner</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -76,7 +76,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item4}
                     className="img-fluid"
@@ -85,7 +85,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Russ Men's Sneakers</a>
+                    <a href="/Product-detail">Russ Men's Sneakers</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -94,7 +94,7 @@ class OtherProducts extends Component {
             <div className="w-100"></div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item5}
                     className="img-fluid"
@@ -103,7 +103,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -111,7 +111,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item6}
                     className="img-fluid"
@@ -120,7 +120,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -128,7 +128,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item7}
                     className="img-fluid"
@@ -137,7 +137,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -145,7 +145,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item8}
                     className="img-fluid"
@@ -154,7 +154,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -163,7 +163,7 @@ class OtherProducts extends Component {
             <div className="w-100"></div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item9}
                     className="img-fluid"
@@ -172,7 +172,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -180,7 +180,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item10}
                     className="img-fluid"
@@ -189,7 +189,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -197,7 +197,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item11}
                     className="img-fluid"
@@ -206,7 +206,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -214,7 +214,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item12}
                     className="img-fluid"
@@ -223,7 +223,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -232,7 +232,7 @@ class OtherProducts extends Component {
             <div className="w-100"></div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item13}
                     className="img-fluid"
@@ -241,7 +241,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -249,7 +249,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item1}
                     className="img-fluid"
@@ -258,7 +258,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -266,7 +266,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item1}
                     className="img-fluid"
@@ -275,7 +275,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -283,7 +283,7 @@ class OtherProducts extends Component {
             </div>
             <div className="col-lg-3 mb-4 text-center">
               <div className="product-entry border">
-                <a href="#" className="prod-img">
+                <a href="/Product-detail" className="prod-img">
                   <img
                     src={item1}
                     className="img-fluid"
@@ -292,7 +292,7 @@ class OtherProducts extends Component {
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="#">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -302,7 +302,7 @@ class OtherProducts extends Component {
           <div className="row">
             <div className="col-md-12 text-center">
               <p>
-                <a href="#" className="btn btn-primary btn-lg">
+                <a href={() => false} className="btn btn-primary btn-lg">
                   Shop All Products
                 </a>
               </p>

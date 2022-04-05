@@ -66,22 +66,22 @@ class Footer extends Component {
                 <p>
                   <ul className="colorlib-social-icons">
                     <li>
-                      <a href="#">
+                      <a href={() => false}>
                         <i className="icon-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href={() => false}>
                         <i className="icon-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href={() => false}>
                         <i className="icon-linkedin"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href={() => false}>
                         <i className="icon-dribbble"></i>
                       </a>
                     </li>
@@ -93,25 +93,25 @@ class Footer extends Component {
                 <p>
                   <ul className="colorlib-footer-links">
                     <li>
-                      <a href="#">Contact</a>
+                      <a href={() => false}>Contact</a>
                     </li>
                     <li>
-                      <a href="#">Returns/Exchange</a>
+                      <a href={() => false}>Returns/Exchange</a>
                     </li>
                     <li>
-                      <a href="#">Gift Voucher</a>
+                      <a href={() => false}>Gift Voucher</a>
                     </li>
                     <li>
-                      <a href="#">Wishlist</a>
+                      <a href={() => false}>Wishlist</a>
                     </li>
                     <li>
-                      <a href="#">Special</a>
+                      <a href={() => false}>Special</a>
                     </li>
                     <li>
-                      <a href="#">Customer Services</a>
+                      <a href={() => false}>Customer Services</a>
                     </li>
                     <li>
-                      <a href="#">Site maps</a>
+                      <a href={() => false}>Site maps</a>
                     </li>
                   </ul>
                 </p>
@@ -121,19 +121,19 @@ class Footer extends Component {
 
                 <ul className="colorlib-footer-links">
                   <li>
-                    <a href="#">About us</a>
+                    <a href={() => false}>About us</a>
                   </li>
                   <li>
-                    <a href="#">Delivery Information</a>
+                    <a href={() => false}>Delivery Information</a>
                   </li>
                   <li>
-                    <a href="#">Privacy Policy</a>
+                    <a href={() => false}>Privacy Policy</a>
                   </li>
                   <li>
-                    <a href="#">Support</a>
+                    <a href={() => false}>Support</a>
                   </li>
                   <li>
-                    <a href="#">Order Tracking</a>
+                    <a href={() => false}>Order Tracking</a>
                   </li>
                 </ul>
               </div>
@@ -145,10 +145,10 @@ class Footer extends Component {
                     <a href="blog.html">Blog</a>
                   </li>
                   <li>
-                    <a href="#">Press</a>
+                    <a href={() => false}>Press</a>
                   </li>
                   <li>
-                    <a href="#">Exhibitions</a>
+                    <a href={() => false}>Exhibitions</a>
                   </li>
                 </ul>
               </div>
@@ -160,13 +160,13 @@ class Footer extends Component {
                     291 South 21th Street, <br /> Suite 721 New York NY 10016
                   </li>
                   <li>
-                    <a href="tel://1234567920">+ 1235 2355 98</a>
+                    <a href={() => false}>+ 1235 2355 98</a>
                   </li>
                   <li>
-                    <a href="mailto:info@yoursite.com">info@yoursite.com</a>
+                    <a href={() => false}>info@yoursite.com</a>
                   </li>
                   <li>
-                    <a href="#">yoursite.com</a>
+                    <a href={() => false}>yoursite.com</a>
                   </li>
                 </ul>
               </div>
@@ -183,17 +183,17 @@ class Footer extends Component {
                     </script>{" "}
                     All rights reserved | This template is made with{" "}
                     <i className="icon-heart" aria-hidden="true"></i> by{" "}
-                    <a href="https://colorlib.com" target="_blank">
+                    <a href={() => false} target="_blank" rel="noreferrer">
                       Colorlib
                     </a>
                   </span>
                   <span className="block">
                     Demo Images:{" "}
-                    <a href="http://unsplash.co/" target="_blank">
+                    <a href={() => false} target="_blank" rel="noreferrer">
                       Unsplash
                     </a>{" "}
                     ,{" "}
-                    <a href="http://pexels.com/" target="_blank">
+                    <a href={() => false} target="_blank" rel="noreferrer">
                       Pexels.com
                     </a>
                   </span>
