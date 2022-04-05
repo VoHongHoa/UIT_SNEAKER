@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import img_bg_1 from "./assets/images/img_bg_1.jpg";
-import img_bg_2 from "./assets/images/img_bg_2.jpg";
-import img_bg_3 from "./assets/images/img_bg_3.jpg";
+import img_bg_1 from "../assets/images/img_bg_1.jpg";
+import img_bg_2 from "../assets/images/img_bg_2.jpg";
+import img_bg_3 from "../assets/images/img_bg_3.jpg";
 class Slider extends Component {
   render() {
     return (

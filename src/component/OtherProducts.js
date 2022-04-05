@@ -1,17 +1,17 @@
 import React, { Component } from "react";
-import item1 from "./assets/images/item-1.jpg";
-import item2 from "./assets/images/item-2.jpg";
-import item3 from "./assets/images/item-3.jpg";
-import item4 from "./assets/images/item-4.jpg";
-import item5 from "./assets/images/item-5.jpg";
-import item6 from "./assets/images/item-6.jpg";
-import item7 from "./assets/images/item-7.jpg";
-import item8 from "./assets/images/item-8.jpg";
-import item9 from "./assets/images/item-9.jpg";
-import item10 from "./assets/images/item-10.jpg";
-import item11 from "./assets/images/item-11.jpg";
-import item12 from "./assets/images/item-12.jpg";
-import item13 from "./assets/images/item-13.jpg";
+import item1 from "../assets/images/item-1.jpg";
+import item2 from "../assets/images/item-2.jpg";
+import item3 from "../assets/images/item-3.jpg";
+import item4 from "../assets/images/item-4.jpg";
+import item5 from "../assets/images/item-5.jpg";
+import item6 from "../assets/images/item-6.jpg";
+import item7 from "../assets/images/item-7.jpg";
+import item8 from "../assets/images/item-8.jpg";
+import item9 from "../assets/images/item-9.jpg";
+import item10 from "../assets/images/item-10.jpg";
+import item11 from "../assets/images/item-11.jpg";
+import item12 from "../assets/images/item-12.jpg";
+import item13 from "../assets/images/item-13.jpg";
 class OtherProducts extends Component {
   render() {
     return (

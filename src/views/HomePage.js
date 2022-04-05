@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import Header from "./Header";
-import Footer from "./Footer";
-import Slider from "./Slider";
-import SectionProducts from "./SectionProducts";
-import OtherProducts from "./OtherProducts";
+import Header from "../component/Header";
+import Footer from "../component/Footer";
+import Slider from "../component/Slider";
+import SectionProducts from "../component/SectionProducts";
+import OtherProducts from "../component/OtherProducts";
 class HomePage extends Component {
   render() {
     return (

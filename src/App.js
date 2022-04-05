@@ -1,7 +1,8 @@
-import "./App.css";
-import HomePage from "./HomePage";
+import HomePage from "./views/HomePage";
 import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
-import MenPage from "./MenPage";
+import MenPage from "./views/MenPage";
+import WomenPage from "./views/WomenPage";
+import ProductDetail from "./views/ProductDetail";
 function App() {
   return (
     <BrowserRouter>
@@ -12,6 +13,12 @@ function App() {
           </Route>
           <Route path="/men" exact>
             <MenPage />
+          </Route>
+          <Route path="/women" exact>
+            <WomenPage />
+          </Route>
+          <Route path="/product-detail" exact>
+            <ProductDetail />
           </Route>
         </Switch>
       </div>

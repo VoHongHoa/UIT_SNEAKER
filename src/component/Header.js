@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { NavLink } from "react-router-dom";
 class Header extends Component {
   render() {
     return (
@@ -35,14 +34,14 @@ class Header extends Component {
               <div className="col-sm-12 text-left menu-1">
                 <ul>
                   <li className="active">
-                    <NavLink to="/" activeClassName="active">
+                    <a href="/" >
                       Trang chủ
-                    </NavLink>
+                    </a>
                   </li>
                   <li className="has-dropdown">
-                    <NavLink to="/men" activeClassName="active" exact={true}>
+                    <a href="/men">
                       Nam
-                    </NavLink>
+                    </a>
                     <ul className="dropdown">
                       <li>
                         <a href="/cart">Shopping Cart</a>
@@ -58,6 +57,7 @@ class Header extends Component {
                       </li>
                     </ul>
                   </li>
+
                   <li>
                     <a href="/women">Giày nữ</a>
                   </li>

@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import brand1 from "./assets/images/brand-1.jpg";
-import brand2 from "./assets/images/brand-2.jpg";
-import brand3 from "./assets/images/brand-3.jpg";
-import brand4 from "./assets/images/brand-4.jpg";
-import brand5 from "./assets/images/brand-5.jpg";
+import brand1 from "../assets/images/brand-1.jpg";
+import brand2 from "../assets/images/brand-2.jpg";
+import brand3 from "../assets/images/brand-3.jpg";
+import brand4 from "../assets/images/brand-4.jpg";
+import brand5 from "../assets/images/brand-5.jpg";
 class Footer extends Component {
   render() {
     return (
