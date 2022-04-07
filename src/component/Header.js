@@ -9,7 +9,9 @@ class Header extends Component {
             <div className="row">
               <div className="col-sm-7 col-md-9">
                 <div id="colorlib-logo">
-                  <a href="/">UITSNEAKER</a>
+                  <h1>
+                    <a href="/">UITSNEAKER</a>
+                  </h1>
                 </div>
               </div>
               <div className="col-sm-5 col-md-3">
