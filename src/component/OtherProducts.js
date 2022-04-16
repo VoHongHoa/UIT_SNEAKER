@@ -19,7 +19,7 @@ class OtherProducts extends Component {
         <div className="container">
           <div className="row">
             <div className="col-sm-8 offset-sm-2 text-center colorlib-heading">
-              <h2>Best Sellers</h2>
+              <h2>Giày sneaker nam bán chạy nhất</h2>
             </div>
           </div>
           <div className="row row-pb-md">
@@ -29,12 +29,12 @@ class OtherProducts extends Component {
                   <img
                     src={item1}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000010 M38"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000010 M38</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -46,12 +46,12 @@ class OtherProducts extends Component {
                   <img
                     src={item2}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000011 M40"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Minam Meaghan</a>
+                    <a href="/Product-detail">Giày sneakers nam S000011 M40</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -63,12 +63,12 @@ class OtherProducts extends Component {
                   <img
                     src={item3}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000012 M41"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Men's Taja Commissioner</a>
+                    <a href="/Product-detail">Giày sneakers nam S000012 M41</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -80,12 +80,12 @@ class OtherProducts extends Component {
                   <img
                     src={item4}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000015 M42"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Russ Men's Sneakers</a>
+                    <a href="/Product-detail">Giày sneakers nam S000015 M42</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -98,12 +98,12 @@ class OtherProducts extends Component {
                   <img
                     src={item5}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000015 M37"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000015 M37</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -115,12 +115,12 @@ class OtherProducts extends Component {
                   <img
                     src={item6}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000015 M50"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000015 M50</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -132,12 +132,12 @@ class OtherProducts extends Component {
                   <img
                     src={item7}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000018 M50"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000018 M50</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -149,12 +149,12 @@ class OtherProducts extends Component {
                   <img
                     src={item8}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000020 M60"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000020 M60</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -167,12 +167,12 @@ class OtherProducts extends Component {
                   <img
                     src={item9}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000020 M61"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000020 M61</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -184,12 +184,12 @@ class OtherProducts extends Component {
                   <img
                     src={item10}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000024 M61"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000024 M61</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -201,12 +201,12 @@ class OtherProducts extends Component {
                   <img
                     src={item11}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000024 M64"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000024 M64</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -218,12 +218,12 @@ class OtherProducts extends Component {
                   <img
                     src={item12}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000023 M64"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000023 M64</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -236,12 +236,12 @@ class OtherProducts extends Component {
                   <img
                     src={item13}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000023 M65"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000023 M65</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -253,12 +253,12 @@ class OtherProducts extends Component {
                   <img
                     src={item1}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000023 M67"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000023 M67</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -270,12 +270,12 @@ class OtherProducts extends Component {
                   <img
                     src={item1}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000024 M67"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000024 M67</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>
@@ -287,12 +287,12 @@ class OtherProducts extends Component {
                   <img
                     src={item1}
                     className="img-fluid"
-                    alt="Free html5 bootstrap 4 template"
+                    alt="Giày sneakers nam S000024 M63"
                   />
                 </a>
                 <div className="desc">
                   <h2>
-                    <a href="/Product-detail">Women's Boots Shoes Maca</a>
+                    <a href="/Product-detail">Giày sneakers nam S000024 M63</a>
                   </h2>
                   <span className="price">$139.00</span>
                 </div>

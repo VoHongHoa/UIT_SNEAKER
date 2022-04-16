@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import men from "../assets/images/men.jpg";
-import women from "../assets/images/women.jpg";
+import women from "../assets/images/men_2.jpg";
 class SectionProducts extends Component {
   render() {
     return (
