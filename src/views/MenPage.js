@@ -59,7 +59,7 @@ class MenPage extends Component {
                         </ul>
                       </li>
                       <li>
-                        <a href="/women">Giày nữ</a>
+                        <a href="/women">Nữ</a>
                       </li>
                       <li>
                         <a href={() => false}>Blog</a>
